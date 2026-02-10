@@ -161,4 +161,3 @@ export default defineConfig([
 ```
 
 # tech-landing-page
->>>>>>> 11c0891 (first commit)

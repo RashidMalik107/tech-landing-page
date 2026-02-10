@@ -1,5 +1,6 @@
 ## Tech Landing Page
 
+
 **Tech Landing Page** is a responsive marketing site built with **React**, **TypeScript**, and **Vite**.  
 It showcases a modern fintech-style product with a hero section, feature highlights, logo carousel, and a registration form with basic client-side persistence.
 
@@ -41,6 +42,10 @@ npm run dev
 ```
 
 This will start Vite and print a local URL (usually `http://localhost:5173`) where you can view the site.
+
+
+![Desktop Tech Landing Page preview](./src/assets/d-ss.png)
+![Mobile Tech Landing Page preview](./src/assets/m-ss.png)
 
 **Build for production**
 

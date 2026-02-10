@@ -45,6 +45,7 @@ This will start Vite and print a local URL (usually `http://localhost:5173`) whe
 
 
 ![Desktop Tech Landing Page preview](./src/assets/d-ss.png)
+![Desktop Tech Landing Page preview](./src/assets/s-ss.png)
 ![Mobile Tech Landing Page preview](./src/assets/m-ss.png)
 
 **Build for production**

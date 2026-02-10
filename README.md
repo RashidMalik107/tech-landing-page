@@ -160,4 +160,8 @@ export default defineConfig([
   },
 ])
 ```
+<<<<<<< HEAD
 >>>>>>> c6de959 (Initial commit)
+=======
+# tech-landing-page
+>>>>>>> 11c0891 (first commit)

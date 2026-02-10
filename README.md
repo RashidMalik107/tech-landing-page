@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Tech Landing Page
 
 **Tech Landing Page** is a responsive marketing site built with **React**, **TypeScript**, and **Vite**.  
@@ -160,8 +159,6 @@ export default defineConfig([
   },
 ])
 ```
-<<<<<<< HEAD
->>>>>>> c6de959 (Initial commit)
-=======
+
 # tech-landing-page
 >>>>>>> 11c0891 (first commit)
